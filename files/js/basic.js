@@ -96,7 +96,3 @@ function isChrome() {
 	return navigator.userAgent.indexOf('Chrome')!=-1;
 
 }
-
-function ejecutar(addPage, loadPage, loadLargePage, loadSmallPage)
-
-ejecutar();
